@@ -1,0 +1,92 @@
+[
+	{       
+                "id": "1",
+		"name": "Oleg Rice",
+		"phone": "1-104-320-4639",
+		"salary": 9789,
+		"country": "Pakistan",
+		"job": "IT Director",
+		"img": "https://i.ibb.co/RpJLmf4/generated-photos-5e6889266d3b380006f22ad3.jpg"
+	},
+	{
+		 "id": "2",
+		"name": "Jordan Ford",
+		"phone": "1-153-574-0270",
+		"salary": 9314,
+		"country": "Russian Federation",
+		"job": "IT Manager",
+		"img": "https://i.ibb.co/h16TdxX/generated-photos-5e684a756d3b380006e3f287.jpg"
+	},
+	{	
+		"id": "3",
+		"name": "Blaze Kennedy",
+		"phone": "1-556-888-2165",
+		"salary": 5360,
+		"country": "Italy",
+		"job": "Security Specialist",
+		"img": "https://i.ibb.co/ckSS5FT/generated-photos-5e687a986d3b380006eed383.jpg"
+	},
+	{	
+		"id": "4",
+		"name": "Sybill England",
+		"phone": "(371) 462-7891",
+		"salary": 9990,
+		"country": "South Korea",
+		"job": "Application Developer",
+		"img": "https://i.ibb.co/2ccmSqS/generated-photos-5e6888e36d3b380006f21bd1.jpg"
+	},
+	{	
+		"id": "5",
+		"name": "Alvin Horton",
+		"phone": "(324) 328-6476",
+		"salary": 6813,
+		"country": "Belgium",
+		"job": "Java Developer",
+		"img": "https://i.ibb.co/ThJvjT6/generated-photos-5e6801606d3b380006d3b7c3.jpg"
+	},
+{	
+		"id": "6",
+		"name": "Jaime Brennan",
+		"phone": "1-755-723-9246",
+		"salary": 8024,
+		"country": "Turkey",
+		"job": "Software Engineer",
+		"img": "https://i.ibb.co/sHF5mGv/generated-photos-5e6803006d3b380006d4188f.jpg"
+	},
+	{	
+		"id": "7",
+		"name": "Cedric Terry",
+		"phone": "(947) 857-6525",
+		"salary": 9324,
+		"country": "Chile",
+		"job": "Front End Developer",
+		"img": "https://i.ibb.co/k1RZ6ry/generated-photos-5e6823786d3b380006db612f.jpg"
+	},
+	{	
+		"id": "8",
+		"name": "Lucian Torres",
+		"phone": "(802) 314-3851",
+		"salary": 9576,
+		"country": "New Zealand",
+		"job": "Web Administrator",
+		"img": "https://i.ibb.co/PzVBNFn/generated-photos-5e6850886d3b380006e5505d.jpg"
+	},
+	{	
+		"id": "9",
+		"name": "Tyler Perkins",
+		"phone": "(438) 438-5781",
+		"salary": 7871,
+		"country": "Peru",
+		"job": "Support Specialist",
+		"img": "https://i.ibb.co/1TH8NQR/generated-photos-5e6855386d3b380006e65f71.jpg"
+	},
+	{	
+		"id": "10",
+		"name": "Claudia Donaldson",
+		"phone": "1-887-566-0766",
+		"salary": 7964,
+		"country": "Costa Rica",
+		"job": "Network Administrator",
+		"img": "https://i.ibb.co/SVyNZzY/generated-photos-5e6889386d3b380006f22ed7.jpg"
+	}
+]
