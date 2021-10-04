@@ -32,34 +32,34 @@
     "name": "Tanisha Cline",
     "courses": "Data Science",
     "price": 1082,
-    "img": "sollicitudin a, malesuada id,"
+    "img": "https://i.ibb.co/qRNfrVv/Business-team-traveling-on-flying-paper-planes-Challenge-opportunity-pointing-forward-teamwork-Leade.jpg"
   },
   {
     "id": 6,
     "name": "Keaton Marquez",
     "courses": "Career Success",
     "price": 1538,
-    "img": "sed, hendrerit a, arcu. Sed et libero. Proin mi."
+    "img": "https://i.ibb.co/8xnNbWt/3500694.jpg"
   },
   {
     "id": 7,
-    "name": "Learn English",
-    "courses": "Fitness",
+    "name": "Quin Stein",
+    "courses": "Learn English",
     "price": 1016,
-    "img": "non, vestibulum nec, euismod in, dolor. Fusce feugiat."
+    "img": "https://i.ibb.co/b3s952F/Learn-Korean-Language-Online-Education-Concept.jpg"
   },
   {
     "id": 8,
-    "name": "Learn Korean",
-    "courses": "Fitness",
+    "name": "Nina West",
+    "courses": "Learn Korean",
     "price": 1209,
-    "img": "enim consequat purus. Maecenas libero est,"
+    "img": "https://i.ibb.co/KW19NW6/Man-at-a-recording-srudio-music-production.jpg"
   },
   {
     "id": 9,
     "name": "Melanie Whitley",
-    "courses": "music production",
+    "courses": "Music Production",
     "price": 1523,
-    "img": "scelerisque neque. Nullam nisl."
+    "img": "https://i.ibb.co/wL5kJxz/Businessman-looking-through-papers-by-workplace-and-analyzing-statistics.jpg"
   }
 ]
