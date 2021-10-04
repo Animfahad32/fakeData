@@ -1,24 +1,28 @@
 [
   {
     "id": 1,
+    "name": "John smith",
     "courses": "Basic Fundamentals for Software Engineering",
     "img": "https://i.ibb.co/SNB1B05/service1.jpg",
     "price": 2116
   },
   {
     "id": 2,
+    "name": "John Doe",
     "courses": "Graphic Design",
     "img": "https://i.ibb.co/X2Y965K/Graphic-design-art-and-profession-theme-vector-illustration-eps-10.jpg",
     "price": 2627
   },
   {
     "id": 3,
+    "name": "Alex Smith",
     "courses": "Digital Marketing",
     "img": "https://i.ibb.co/LJXLhCR/service3.jpg",
     "price": 2822
   },
   {
     "id": 4,
+    "name": "Ross Geller",
     "courses": "Fitness",
     "img": "https://i.ibb.co/g6FstKC/Girl-in-a-gym-Woman-on-a-racetrack-Lady-in-a-red-top.jpg",
     "price": 1484
