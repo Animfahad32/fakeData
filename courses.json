@@ -1,20 +1,24 @@
 [
   {
+    "id": 1,
     "courses": "Basic Fundamentals for Software Engineering",
     "img": "https://i.ibb.co/W2cFY29/service1.jpg",
     "price": 2116
   },
   {
+    "id": 2,
     "courses": "Graphic Design",
     "img": "https://i.ibb.co/W21fcvH/Graphic-design-art-and-profession-theme-vector-illustration-eps-10.jpg",
     "price": 2627
   },
   {
+    "id": 3,
     "courses": "Digital Marketing",
     "img": "https://i.ibb.co/8sCXpnq/service3.jpg",
     "price": 2822
   },
   {
+    "id": 4,
     "courses": "Fitness",
     "img": "https://i.ibb.co/g6FstKC/Girl-in-a-gym-Woman-on-a-racetrack-Lady-in-a-red-top.jpg",
     "price": 1484
