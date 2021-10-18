@@ -1,0 +1,38 @@
+[
+   {
+      "id":1,
+      "name":"Running",
+      "img":"https://i.ibb.co/QHW47Hg/service1.jpg",
+      "desc":"Training for running events by running, as you’d probably expect, is a very good idea. It’s pretty much a necessity in fact, if you want to maintain, improve and progress."
+   },
+   {
+      "id":2,
+      "name":"Weight Lifting",
+      "img":"https://i.ibb.co/rZzCKrw/service2.jpg",
+      "desc":"GymEdge Weightlifting is the premier training facility dedicated to the sport of weightlifting.We offer open gym access and class membership with coaching for Weightlifting and Strength & Conditioning for everyone."
+   },
+   {
+      "id":3,
+      "name":"Yoga",
+      "img":"https://i.ibb.co/hCcVQ7v/service3.jpg",
+      "desc":"When entering our yoga studio, welcome yourself to an extraordinary experience to work on your mind and body. Each instructor designs our yoga classes to be accommodating from beginner to advanced levels by coupling strength poses with guided breathing exercises that can be tailored to you."
+   },
+   {
+      "id":4,
+      "name":"Boxing For Children",
+      "img":"https://i.ibb.co/ryYbM3d/service4.png",
+      "desc":"Our kids’ program is for children in San Diego that are 7-12 and looking to put their all into a new sport. Boxing is a great way for children to learn focus, dedication, respect, and to push themselves physically and mentally. "
+   },
+   {
+      "id":5,
+      "name":"Boxing For Adults",
+      "img":"https://i.ibb.co/PYHGYk7/service5.jpg",
+      "desc":"We offer a variety of classes that range from beginner to advanced levels. Our program begins with our Power Boxing class that focuses on bringing the ultimate cardio-based class with basic combinations and core."
+   },
+   {
+      "id":6,
+      "name":"Self-Defense",
+      "img":"https://i.ibb.co/TBJsVdF/service6.png",
+      "desc":"Self-defence means fighting off something or another person to protect yourself and maybe others. Ways of self-defence include martial arts or using a weapon. "
+   }
+]
