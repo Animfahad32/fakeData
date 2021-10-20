@@ -1,6 +1,6 @@
 [
   {
-    "key": 001,
+    "key": 1,
     "Test": "X-ray",
     "Supervisor": " Dr.Michael John",
     "price": "15",
@@ -8,7 +8,7 @@
     "img": "https://i.ibb.co/WxnWC2b/xray.jpg"
   },
   {
-    "key": 002,
+    "key": 2,
     "Test": "Bloodtest",
     "Supervisor": "Dr.John Stuart",
     "price": "11",
@@ -16,7 +16,7 @@
     "img": "https://i.ibb.co/hmD8tCQ/bloodtest.jpg"
   },
   {
-    "key": 003,
+    "key": 3,
     "Test": "Covid_Detection",
     "Supervisor": "Dr.Sara Jo",
     "price": "10",
@@ -24,7 +24,7 @@
     "img": "https://i.ibb.co/SmnFHFB/covidtest.jpg"
   },
   {
-    "key": 004,
+    "key": 4,
     "Test": "CitiScan",
     "Supervisor": "Dr Cooper",
     "price": "60",
@@ -32,7 +32,7 @@
     "img": "https://i.ibb.co/MN8rQVy/citi-scan.jpg"
   },
   {
-    "key": "005",
+    "key": 5,
     "Test": "MRI",
     "Supervisor": "Dr Raj Sharma",
     "price": "75",
@@ -40,7 +40,7 @@
     "img": "https://i.ibb.co/PhxsQ3d/mri.jpg"
   },
   {
-    "key": 006,
+    "key": 6,
     "Test": "ECG",
     "Supervisor": "Dr Han Ho",
     "price": "15",
@@ -48,7 +48,7 @@
     "img": "https://i.ibb.co/3kqdH2M/ecg.jpg"
   },
   {
-    "key": 007,
+    "key": 7,
     "Test": "Vaccine",
     "Supervisor": "General Practiconer",
     "price": "15",
@@ -56,7 +56,7 @@
     "img": "https://i.ibb.co/LtQcxcb/vaccine.jpg"
   },
   {
-    "key": 008,
+    "key": 8,
     "Test": "Endoscopy",
     "Supervisor": "Dr Islam Chowdhury",
     "price": "35",
