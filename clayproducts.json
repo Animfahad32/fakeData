@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Modern Vase",
+    "id": 0,
+    "material": "Clay, Grogged earthenware",
+    "img": "https://i.ibb.co/rFNcdh3/p1.jpg",
+    "price": 200
+  },
+  {
+    "name": "Tea Pots",
+    "id": 1,
+    "material": "Glaze, pottery",
+    "img": "https://i.ibb.co/vVhZ9Lq/p2.jpg",
+    "price": 150
+  },
+  {
+    "name": "Terracotta Vase",
+    "id": 2,
+    "material": "Ceramic",
+    "img": "https://i.ibb.co/bg62zQr/p3.jpg",
+    "price": 275
+  },
+  {
+    "name": "Italian Pot",
+    "id": 3,
+    "material": "Italian, pottery",
+    "img": "https://i.ibb.co/CwJnHKH/p4.jpg",
+    "price": 350
+  },
+  {
+    "name": "Antic Pot",
+    "id": 4,
+    "material": "Ceramic, pottery, clay, glaze",
+    "img": "https://i.ibb.co/ZH5z8c0/p5.jpg",
+    "price": 432
+  },
+  {
+    "name": "Ceramic Vase",
+    "id": 5,
+    "material": "Ceramic, clay",
+    "img": "https://i.ibb.co/xD746s2/p6.jpg",
+    "price": 550
+  },
+  {
+    "name": "Flower Vase",
+    "id": 6,
+    "material": "pottery, clay",
+    "img": "https://i.ibb.co/3kvfYDp/p7.jpg",
+    "price": 530
+  },
+  {
+    "name": "Metal Vase",
+    "id": 7,
+    "material": "Ceramic, clay",
+    "img": "https://i.ibb.co/71M1zgF/p8.jpg",
+    "price": 660
+  },
+  {
+    "name": "Marble Vase",
+    "id": 8,
+    "material": "Marble",
+    "img": "https://i.ibb.co/3dqBnkk/p9.jpg",
+    "price": 890
+  },
+  {
+    "name": "Bamboo Vase",
+    "id": 9,
+    "material": "Clay, bamboo",
+    "img": "https://i.ibb.co/LvmyGNV/p10.jpg",
+    "price": 150
+  }
+]
