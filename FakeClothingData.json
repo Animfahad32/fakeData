@@ -46,5 +46,13 @@
     "Price": "$44.10",
     "Payment": "Bank",
     "Status": "Paid "
+  },
+  {
+    "id": 6,
+    "Reference": "TSH-SMA-LEG",
+    "NewClient": "No",
+    "Price": "$44.10",
+    "Payment": "Pay with Check",
+    "Status": "Paid "
   }
 ]
