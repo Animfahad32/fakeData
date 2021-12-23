@@ -1,20 +1,50 @@
 [
-  {
-    "title": "T-shirt",
-    "id": 1,
-    "Image": "https://i.ibb.co/f2XVdC6/Tshart-1.jpg",
-    "price": 150,
-    "description": "The finishes of this product are very realistic with double stitching on the neck, sleeves,and bottom, and with a \t\tbanded neck cleaning that allows optimal support in all situations.",
-    "availability": 10,
-    "category": "cloth"
+    {
+      id: "1",
+     Reference: "TSH-SMA-POL",
+    NewClient: "No",
+    Price: "$1245.12",
+    Payment: "Pay with Check",
+    Status: "Paid"
   },
   {
-    "title": "Hoodie",
-    "id": 2,
-    "Image": "https://i.ibb.co/f2XVdC6/Tshart-1.jpg",
-    "price": 550,
-    "description": "The finishes of this product are very realistic with double stitching on the neck, sleeves,and bottom, and with a \t\tbanded neck cleaning that allows optimal support in all situations.",
-    "availability": 10,
-    "category": "Winter cloth"
-  }
+      id: "2",
+     Reference: "TSH-KLAS-NEC",
+    NewClient: "Yes",
+    Price: "$414.12",
+    Payment: "PayPal",
+    Status: "Unpaid"
+  },
+  {
+      id: "3",
+     Reference: "TSH-DAW-TSH",
+    NewClient: "No",
+    Price: "$163.22",
+    Payment: "Bank",
+    Status: "Paid"
+  },
+    {
+      id: "4",
+     Reference: "TSH-SMA-LON",
+    NewClient: "Yes",
+    Price: "$500.12",
+    Payment: "Pay with Check",
+    Status: "Processing "
+  }, 
+    {
+      id: "5",
+     Reference: "TSH-SMA-LON",
+    NewClient: "Yes",
+    Price: "$500.12",
+    Payment: "Pay with Check",
+    Status: "Processing "
+  },
+    {
+    id: "6",
+    Reference: "TSH-SMA-LEG",
+    NewClient: "No",
+    Price: "$44.10",
+    Payment: "Bank",
+    Status: "Paid "
+  }, 
 ]
