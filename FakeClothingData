@@ -1,0 +1,20 @@
+[
+  {
+    "title": "T-shirt",
+    "id": 1,
+    "Image": "https://i.ibb.co/f2XVdC6/Tshart-1.jpg",
+    "price": 150,
+    "description": "The finishes of this product are very realistic with double stitching on the neck, sleeves,and bottom, and with a \t\tbanded neck cleaning that allows optimal support in all situations.",
+    "availability": 10,
+    "category": "cloth"
+  },
+  {
+    "title": "Hoodie",
+    "id": 2,
+    "Image": "https://i.ibb.co/f2XVdC6/Tshart-1.jpg",
+    "price": 550,
+    "description": "The finishes of this product are very realistic with double stitching on the neck, sleeves,and bottom, and with a \t\tbanded neck cleaning that allows optimal support in all situations.",
+    "availability": 10,
+    "category": "Winter cloth"
+  }
+]
