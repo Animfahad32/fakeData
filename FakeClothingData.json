@@ -1,50 +1,50 @@
 [
-    {
-      id: "1",
-     Reference: "TSH-SMA-POL",
-    NewClient: "No",
-    Price: "$1245.12",
-    Payment: "Pay with Check",
-    Status: "Paid"
+  {
+    "id": 1,
+    "Reference": "TSH-SMA-POL",
+    "NewClient": "No",
+    "Price": "$1245.12",
+    "Payment": "Pay with Check",
+    "Status": "Paid"
   },
   {
-      id: "2",
-     Reference: "TSH-KLAS-NEC",
-    NewClient: "Yes",
-    Price: "$414.12",
-    Payment: "PayPal",
-    Status: "Unpaid"
+    "id": 2,
+    "Reference": "TSH-KLAS-NEC",
+    "NewClient": "Yes",
+    "Price": "$414.12",
+    "Payment": "PayPal",
+    "Status": "Unpaid"
   },
   {
-      id: "3",
-     Reference: "TSH-DAW-TSH",
-    NewClient: "No",
-    Price: "$163.22",
-    Payment: "Bank",
-    Status: "Paid"
+    "id": 3,
+    "Reference": "TSH-DAW-TSH",
+    "NewClient": "No",
+    "Price": "$163.22",
+    "Payment": "Bank",
+    "Status": "Paid"
   },
-    {
-      id: "4",
-     Reference: "TSH-SMA-LON",
-    NewClient: "Yes",
-    Price: "$500.12",
-    Payment: "Pay with Check",
-    Status: "Processing "
-  }, 
-    {
-      id: "5",
-     Reference: "TSH-SMA-LON",
-    NewClient: "Yes",
-    Price: "$500.12",
-    Payment: "Pay with Check",
-    Status: "Processing "
+  {
+    "id": 4,
+    "Reference": "TSH-SMA-LON",
+    "NewClient": "Yes",
+    "Price": "$500.12",
+    "Payment": "Pay with Check",
+    "Status": "Processing "
   },
-    {
-    id: "6",
-    Reference: "TSH-SMA-LEG",
-    NewClient: "No",
-    Price: "$44.10",
-    Payment: "Bank",
-    Status: "Paid "
+  {
+    "id": 5,
+    "Reference": "TSH-SMA-LON",
+    "NewClient": "Yes",
+    "Price": "$500.12",
+    "Payment": "Pay with Check",
+    "Status": "Processing "
+  },
+  {
+    "id": 6,
+    "Reference": "TSH-SMA-LEG",
+    "NewClient": "No",
+    "Price": "$44.10",
+    "Payment": "Bank",
+    "Status": "Paid "
   }
 ]
