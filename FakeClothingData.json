@@ -54,5 +54,54 @@
     "Price": "$44.10",
     "Payment": "Pay with Check",
     "Status": "Paid "
-  }
+  },  {
+    "id": 8,
+    "Reference": "TSH-SMA-LEG",
+    "NewClient": "No",
+    "Price": "$44.10",
+    "Payment": "Bank",
+    "Status": "Paid "
+  },  {
+    "id": 9,
+    "Reference": "TSH-SMA-LEG",
+    "NewClient": "No",
+    "Price": "$44.10",
+    "Payment": "Bank",
+    "Status": "Paid "
+  },  {
+    "id": 10,
+    "Reference": "TSH-SMA-LEG",
+    "NewClient": "No",
+    "Price": "$44.10",
+    "Payment": "Bank",
+    "Status": "Paid "
+  },  {
+    "id": 11,
+    "Reference": "TSH-SMA-LEG",
+    "NewClient": "No",
+    "Price": "$44.10",
+    "Payment": "Bank",
+    "Status": "Paid "
+  },  {
+    "id": 12,
+    "Reference": "TSH-SMA-LEG",
+    "NewClient": "No",
+    "Price": "$44.10",
+    "Payment": "Bank",
+    "Status": "Paid "
+  },  {
+    "id": 13,
+    "Reference": "TSH-SMA-LEG",
+    "NewClient": "No",
+    "Price": "$44.10",
+    "Payment": "Bank",
+    "Status": "Paid "
+  },  {
+    "id": 14,
+    "Reference": "TSH-SMA-LEG",
+    "NewClient": "No",
+    "Price": "$44.10",
+    "Payment": "Bank",
+    "Status": "Paid "
+  },
 ]
